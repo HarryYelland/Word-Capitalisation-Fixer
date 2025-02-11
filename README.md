@@ -17,3 +17,21 @@ https://github.com/HarryYelland/Word-Capitalisation-Fixer/blob/a8f9649da1e097475
 - Boost Productivity: Save time and effort with streamlined text editing capabilities.
 - Enhance Clarity: Ensure your writing remains clear and professional, enhancing communication with your audience.
 - Versatile Application: Ideal for professionals, students, and anyone who values clean, well-formatted text.
+
+#### Installation
+
+###### Download
+
+Download the installation zip from the above link.
+
+###### Unzip
+
+Unzip the downloaded file to reveal the add-on
+
+###### Run Installer
+
+Run the add-on installer.
+
+###### Done
+
+Everything should now 'just work'! Enjoy never having written in all-caps again!
